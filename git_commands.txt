@@ -1,0 +1,15 @@
+git --version – Checks the installed Git version.
+
+git init – Initializes a local Git repository.
+
+git status – Displays the current repository status.
+
+git add . – Stages all modified and new files.
+
+git commit -m "Initial commit" – Saves staged changes to the repository.
+
+git log --oneline – Displays the commit history in a short format.
+
+git remote add origin https://github.com/SHOJIB-80/lab_06_group_2 – Connects the local repository to my remote GitHub repository.
+
+git push -u origin main – Uploads local commits to the GitHub main branch.
