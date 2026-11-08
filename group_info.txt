@@ -6,3 +6,7 @@ Member 4:Abu Anas Al Masum - 2023-2-60-152
 Course Code: CSE 412
 Lab Work: 06
 Topic: Git Repository
+
+Department: Computer Science and Engineering
+University: East West University
+Git Learning Status: In Progress
